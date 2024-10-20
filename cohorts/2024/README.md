@@ -14,18 +14,21 @@
 
 * [Module materials](../../01-intro)
 * [Homework](01-intro/homework.md)
+* [Homework solution](01-intro/homework_1.ipynb)
 
 
 [**2. Machine Learning for Regression**](02-regression/)
 
 * [Module materials](../../02-regression)
 * [Homework](02-regression/homework.md)
+* [Homework solution](02-regression/homework.ipynb)
 
 
 [**3. Machine Learning for Classification**](03-classification/)
 
 * [Module materials](../../03-classification)
 * [Homework](03-classification/homework.md)
+* [Homework solution](03-classification/homework_3.ipynb)
 
 
 [**4. Evaluation Metrics for Classification**](04-evaluation/)
